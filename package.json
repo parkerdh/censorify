@@ -1,8 +1,8 @@
 {
-    "name": "parkerdh_weather",
+    "name": "censorify",
     "version": "0.1.0",
     "repository": {
-  "type": "git",   "url": "http://github.com/bwdayley/nodebook/tree/master/ch03/censorify"
+  "type": "git",   "url": "http://github.com/parkerdh/censorify"
  },
   "keywords": [
     "censor",
