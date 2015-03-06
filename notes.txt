@@ -1,0 +1,5 @@
+http://3234.234.24./getcity?qq=Pr
+	1.) add a route. So when I get this request I am going to run this..
+	2.)open a file that has all the city names in it.
+	3.) search for cities that have prefix on them
+	4.) json format it and send it back to jquery application

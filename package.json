@@ -1,0 +1,11 @@
+{
+    "name": "parkerdh_weather",
+    "version": "0.1.0",
+    "repository": {
+  "type": "git",   "url": "http://github.com/bwdayley/nodebook/tree/master/ch03/censorify"
+ },
+  "keywords": [
+    "censor",
+   "words"
+ ],
+}
